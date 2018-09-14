@@ -1,6 +1,6 @@
 {
   "name": "xmpp-groupchat-unjoined-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An package to sanitize messages from unjoined groupchats.",
   "main": "dist/index.js",
   "scripts": {
